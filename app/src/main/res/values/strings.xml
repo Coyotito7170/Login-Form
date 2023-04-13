@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GAMING APP</string>
+    <string name="name_hint">Enter name</string>
+    <string name="email_hint">Enter email</string>
+    <string name="phone_hint">Enter phone number</string>
+    <string name="password_hint">Enter password</string>
+</resources>
